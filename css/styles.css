@@ -15,7 +15,7 @@ margin: 20px;
 
 #our-menu {
   color: #000;
-  text-align: center;
+  
    margin-top: auto;
   
 }
@@ -51,7 +51,7 @@ margin: 20px;
 }
 #nav-list a {
   color: #000000;
-  text-align: center;
+  
 }
 #nav-list a:hover {
   background: #9fd116;
@@ -151,6 +151,5 @@ margin: 20px;
 }
 
 }
-
 
 
